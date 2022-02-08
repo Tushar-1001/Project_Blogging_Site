@@ -1,7 +1,4 @@
-# radium
-Repository for backend cohort - Radium
-
-## Blogging Site Mini Project Requirement
+# Project - Blogging Site 
 
 ## Phase I
 
